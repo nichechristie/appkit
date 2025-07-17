@@ -12,7 +12,7 @@
     "@reown/appkit": "workspace:*",
     "@tanstack/react-query": "5.56.2",
     "@walletconnect/sign-client": "2.19.1",
-    "@walletconnect/types": "2.19.1",
+    "@walletconnect/types": "2.21.4",
     "next": "14.2.24",
     "next-themes": "0.4.3",
     "react": "19.0.0",
