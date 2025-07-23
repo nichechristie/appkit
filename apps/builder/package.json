@@ -37,7 +37,7 @@
     "@sentry/nextjs": "8.49.0",
     "@solana/wallet-adapter-wallets": "0.19.32",
     "@solana/web3.js": "1.98.0",
-    "@tanstack/react-query": "5.56.2",
+    "@tanstack/react-query": "5.81.5",
     "@wagmi/core": "2.16.7",
     "autoprefixer": "10.4.20",
     "class-variance-authority": "0.7.1",
