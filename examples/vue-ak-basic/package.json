@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@reown/appkit": "workspace:*",
-    "vue": "3.4.3"
+    "vue": "3.5.17"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "5.0.2",
